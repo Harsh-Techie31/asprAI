@@ -1,17 +1,24 @@
-# blr
+# 📱 Service Listing App  
 
-A new Flutter project.
+A modern and elegant **Flutter application** that fetches and displays services from an API. The app features a **searchable list**, a beautiful UI with gradients, smooth animations, and reusable components.
 
-## Getting Started
+Heres a video demo : 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Uploading asprAI.mp4…
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# asprAI" 
+
+## 🌟 Features  
+✅ Fetches services from an API using `POST` request  
+✅ Displays **service name, ID, and cost** in a modern UI  
+✅ **Search functionality** for filtering services by name & description  
+✅ **Reusable components** for better modularity  
+✅ **Animations & UI Enhancements** for a premium feel  
+
+## 🛠️ Technologies Used  
+- **Flutter** (Dart)  
+- **Provider (Optional - for state management)**  
+- **HTTP Package** for API requests  
+- **Custom Widgets** for better code structure  
+
